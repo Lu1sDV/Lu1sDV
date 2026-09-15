@@ -32,7 +32,7 @@
 
 | Project | Focus |
 | :--- | :--- |
-| [**wafme0w**](https://github.com/Lu1sDV/wafme0w) | Lightweight, AI-assisted WAF detection · Go |
+| [**wafme0w**](https://github.com/Lu1sDV/wafme0w) | Lightweight, Blazingfast WAF detection · Go |
 | [**ctf_writeups**](https://github.com/Lu1sDV/ctf_writeups) | CTF challenge writeups |
 
 ## Experiments
