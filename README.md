@@ -6,6 +6,10 @@
 
 <br>
 
+<a href="https://lu1sdv.github.io/personal-website/"><img src="https://img.shields.io/badge/Website-lu1sdv.github.io-0ea5e9?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Personal website — blog on cybersecurity and computer science"></a>
+
+<br>
+
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
