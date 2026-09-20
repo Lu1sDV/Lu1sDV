@@ -1,12 +1,6 @@
-<details><summary>🔗 Connect</summary>
-
-- Website / blog — https://lu1sdv.github.io/personal-website/
-
-</details>
-
 <div align="center">
 
-# Lu1sDV
+<a href="https://lu1sdv.github.io/personal-website/"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0ea5e9&amp;height=120&amp;section=header&amp;text=Lu1sDV&amp;fontColor=ffffff" alt="Lu1sDV — personal website"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=0EA5E9&amp;lines=cybersecurity+%2F+ai+%2F+SWE" alt="cybersecurity / ai / SWE">
 
